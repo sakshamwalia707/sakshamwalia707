@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me and my journey in the world 
 ## Competitive Programming
 
 I actively participate in competitive programming on various platforms. Here are my current rankings:
-- **Codeforces:** 1083 (https://codeforces.com/profile/notoriouspenguin)
+- **Codeforces:** 1161 (https://codeforces.com/profile/notoriouspenguin)
 - **LeetCode:** 1521  (https://leetcode.com/u/notoriouspenguin/)
 - **CodeChef:** 1597   (https://www.codechef.com/users/chefsaksham)
 
