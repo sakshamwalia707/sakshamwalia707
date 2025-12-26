@@ -15,7 +15,6 @@ Software Engineer – Currently working on backend systems, AI-powered applicati
 
 Internships – Hands-on experience building real products, deploying systems, and collaborating in startup environments
 
-(Details intentionally concise — repositories demonstrate real work.)
 
 I focus on building end-to-end, production-grade systems, owning everything from architecture and backend logic to deployment and optimization.
 
